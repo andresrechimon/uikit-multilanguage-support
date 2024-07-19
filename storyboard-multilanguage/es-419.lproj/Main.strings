@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Hola"; ObjectID = "cOW-RI-z6e"; */
+"cOW-RI-z6e.text" = "Hola";
+
+/* Class = "UIButton"; configuration.title = "Español"; ObjectID = "g8f-Y0-tbp"; */
+"g8f-Y0-tbp.configuration.title" = "Español";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g8f-Y0-tbp"; */
+"g8f-Y0-tbp.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Inglés"; ObjectID = "gj1-rU-h9X"; */
+"gj1-rU-h9X.configuration.title" = "Inglés";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gj1-rU-h9X"; */
+"gj1-rU-h9X.normalTitle" = "Button";
